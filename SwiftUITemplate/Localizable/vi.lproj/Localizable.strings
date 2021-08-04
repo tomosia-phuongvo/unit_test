@@ -1,0 +1,13 @@
+// MARK: - Button
+"btn_next" = "Tiếp tục";
+"btn_ok" = "OK";
+
+// MARK: - Tabbar
+"tabbar_list_cat" = "Mèo";
+
+// MARK: - Tutorial Screen
+"tutorial_screen_title" = "Màn Tutorial";
+"tutorial_screen_language_text" = "Ngôn ngữ";
+
+// MARK: - List Cat Screen
+"list_cat_screen_title" = "Màn List Cat";

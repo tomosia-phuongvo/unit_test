@@ -1,0 +1,13 @@
+// MARK: - Button
+"btn_next" = "Next";
+"btn_ok" = "OK";
+
+// MARK: - Tabbar
+"tabbar_list_cat" = "Cats";
+
+// MARK: - Tutorial Screen
+"tutorial_screen_title" = "Tutorial Screen";
+"tutorial_screen_language_text" = "Language";
+
+// MARK: - List Cat Screen
+"list_cat_screen_title" = "List Cat Screen";

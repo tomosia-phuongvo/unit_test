@@ -1,0 +1,10 @@
+xcassets:
+  inputs: ${PROJECT_DIR}/${TARGET_NAME}/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: ${PROJECT_DIR}/${TARGET_NAME}/Helper/AssetsConstants.swift
+fonts:
+  inputs: ${PROJECT_DIR}/${TARGET_NAME}/Resource/Font
+  outputs:
+    templateName: swift5
+    output: ${PROJECT_DIR}/${TARGET_NAME}/Helper/Fonts.swift

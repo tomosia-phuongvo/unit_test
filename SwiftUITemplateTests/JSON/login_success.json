@@ -1,0 +1,34 @@
+{
+    "error_code": 0,
+    "message": "成功",
+    "data": {
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3NTQsInRpbWVfY3JlYXRlIjoxNjI3NTg4Njc2fQ.Jz-QiEWtLqLdu06cwfq2xFXLEmvxTlnvFPH2xCEGtvM",
+        "profile": {
+            "id": 754,
+            "username": "phuong.vo15@tomosia.com",
+            "nickname": "phuongvnc",
+            "email": "phuong.vo14@tomosia.com",
+            "is_verified_email": false,
+            "avatar": "https://hataraki-beta.s3.amazonaws.com/media/avatars/nurse-user07.png",
+            "avatar_thumb": "https://hataraki-beta.s3.amazonaws.com/media/CACHE/images/avatars/nurse-user07/a5e258c2592e44175375940907f1ec68.jpg",
+            "birthday": null,
+            "age": null,
+            "gender": 1,
+            "province": null,
+            "introduction": null,
+            "like_number": 3,
+            "month_point": 397,
+            "total_point": 983,
+            "total_comment": 7,
+            "point": 783,
+            "exchange_point": 633,
+            "is_gold_member": true,
+            "status": 1,
+            "is_admin": false,
+            "certificate": [],
+            "is_new_user": false,
+            "is_finish_profile": false,
+            "created_at": "23-06-2021 12:44:46"
+        }
+    }
+}
